@@ -1,0 +1,120 @@
+{
+  "matches": [
+    {
+      "a": "F",
+      "b": "C1",
+      "winner_side": "A",
+      "winner": "F",
+      "margin": 3,
+      "reason": "A's ironic loop (a fake meeting attracting joiners) is fresher and airtight on first read, while B lands well but leans on the well-worn mute trope and has a small logic wrinkle about not noticing the",
+      "raw": "Winner: A\nMargin: 3\nReason: A's ironic loop (a fake meeting attracting joiners) is fresher and airtight on first read, while B lands well but leans on the well-worn mute trope and has a small logic wrinkle about not noticing the meeting ended."
+    },
+    {
+      "a": "C1",
+      "b": "F",
+      "winner_side": "B",
+      "winner": "F",
+      "margin": 2,
+      "reason": "Both are clean one-liners, but B's ironic backfire on the fake \"in a meeting\" status is tighter, fresher, and lands more instantly than A's wordier, slightly well-worn mute gag.",
+      "raw": "Winner: B\nMargin: 2\nReason: Both are clean one-liners, but B's ironic backfire on the fake \"in a meeting\" status is tighter, fresher, and lands more instantly than A's wordier, slightly well-worn mute gag."
+    },
+    {
+      "a": "F",
+      "b": "C2",
+      "winner_side": "B",
+      "winner": "C2",
+      "margin": 3,
+      "reason": "B's auto-replies waging a \"three-email argument\" is a fresher, more surprising absurd twist, while A's fake-status dodge leans on a more familiar office trope.",
+      "raw": "Winner: B\nMargin: 3\nReason: B's auto-replies waging a \"three-email argument\" is a fresher, more surprising absurd twist, while A's fake-status dodge leans on a more familiar office trope."
+    },
+    {
+      "a": "C2",
+      "b": "F",
+      "winner_side": "A",
+      "winner": "C2",
+      "margin": 2,
+      "reason": "Both are single-line office jokes that land, but A's image of two auto-replies locked in a three-email argument is a fresher, more surprising payoff than B's more familiar \"everyone wants a meeting\" t",
+      "raw": "Winner: A\nMargin: 2\nReason: Both are single-line office jokes that land, but A's image of two auto-replies locked in a three-email argument is a fresher, more surprising payoff than B's more familiar \"everyone wants a meeting\" twist."
+    },
+    {
+      "a": "F",
+      "b": "C3",
+      "winner_side": "A",
+      "winner": "F",
+      "margin": 3,
+      "reason": "Both are clean one-liners, but A lands a true ironic reversal (hiding from meetings attracts a meeting) where B's surveillance snitch is a more predictable outcome of the setup.",
+      "raw": "Winner: A\nMargin: 3\nReason: Both are clean one-liners, but A lands a true ironic reversal (hiding from meetings attracts a meeting) where B's surveillance snitch is a more predictable outcome of the setup."
+    },
+    {
+      "a": "C3",
+      "b": "F",
+      "winner_side": "B",
+      "winner": "F",
+      "margin": 3,
+      "reason": "Both are clean one-liners, but B's ironic reversal\u2014the fake meeting attracting exactly the people you were hiding from\u2014is a fresher, more surprising twist than A's more predictable \"the app snitches t",
+      "raw": "Winner: B\nMargin: 3\nReason: Both are clean one-liners, but B's ironic reversal\u2014the fake meeting attracting exactly the people you were hiding from\u2014is a fresher, more surprising twist than A's more predictable \"the app snitches to the boss.\""
+    },
+    {
+      "a": "F",
+      "b": "C4",
+      "winner_side": "B",
+      "winner": "C4",
+      "margin": 2,
+      "reason": "Both land as clean one-liners, but B's irony\u2014a meeting booked to discuss your focus\u2014has a sharper, more universally recognizable payoff than A's slightly contrived \"people want to join.\"",
+      "raw": "Winner: B\nMargin: 2\nReason: Both land as clean one-liners, but B's irony\u2014a meeting booked to discuss your focus\u2014has a sharper, more universally recognizable payoff than A's slightly contrived \"people want to join.\""
+    },
+    {
+      "a": "C4",
+      "b": "F",
+      "winner_side": "A",
+      "winner": "C4",
+      "margin": 3,
+      "reason": "A's meeting-about-focus is a sharper, more inevitable corporate irony than B's fuzzier why-would-they-join punchline.",
+      "raw": "Winner: A\nMargin: 3\nReason: A's meeting-about-focus is a sharper, more inevitable corporate irony than B's fuzzier why-would-they-join punchline."
+    }
+  ],
+  "wins": {
+    "F": 4,
+    "C1": 0,
+    "C2": 2,
+    "C3": 0,
+    "C4": 2
+  },
+  "margin_sum": {
+    "F": 11,
+    "C1": 0,
+    "C2": 5,
+    "C3": 0,
+    "C4": 5
+  },
+  "final": {
+    "matches": [
+      {
+        "a": "C2",
+        "b": "C4",
+        "winner_side": "A",
+        "winner": "C2",
+        "margin": 2,
+        "reason": "A's auto-replies arguing with each other is a funnier and fresher surprise than B's more predictable meeting-about-focus irony.",
+        "raw": "Winner: A\nMargin: 2\nReason: A's auto-replies arguing with each other is a funnier and fresher surprise than B's more predictable meeting-about-focus irony."
+      },
+      {
+        "a": "C4",
+        "b": "C2",
+        "winner_side": "A",
+        "winner": "C4",
+        "margin": 3,
+        "reason": "A's ironic twist\u2014a meeting booked to discuss avoiding meetings\u2014lands as a sharper, more instantly recognizable office truth than B's familiar auto-reply-loop gag.",
+        "raw": "Winner: A\nMargin: 3\nReason: A's ironic twist\u2014a meeting booked to discuss avoiding meetings\u2014lands as a sharper, more instantly recognizable office truth than B's familiar auto-reply-loop gag."
+      }
+    ],
+    "wins": {
+      "C2": 1,
+      "C4": 1
+    },
+    "margin_sum": {
+      "C2": 2,
+      "C4": 3
+    }
+  }
+}
